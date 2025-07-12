@@ -29,7 +29,7 @@ Whether it's harassment, stray dogs, or poorly lit roads — SafeStep maps it al
 
 | Home Safety Map | Report Incident | Safe Route |
 |-----------------|------------------|------------|
-| ![Home](./screens/safestep-home.png) | ![Report](./screens/safestep-report.png) | ![Route](./screens/safestep-route.png) |
+| ![Home](./safestep-home.png) | ![Report](./safestep-report.png) | ![Route](./safestep-route.png) |
 
 ---
 
