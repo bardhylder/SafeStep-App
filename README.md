@@ -2,7 +2,7 @@
 
 SafeStep is a mobile-first app that helps people avoid unsafe streets based on real-time community reports.
 
-Whether it's harassment, stray dogs, or poorly lit roads — SafeStep maps it all and shows you safer routes instantly.
+Whether it's harassment, stray dogs, or poorly lit roads; SafeStep maps it all and shows you safer routes instantly.
 
 ---
 
